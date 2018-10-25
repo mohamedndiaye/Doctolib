@@ -30,6 +30,3 @@ end
 	spec = Specialty.create!()
 end
 
-2.times do |index|
-	ds = Doctor_Specialty.create!()
-end

@@ -3,5 +3,4 @@ class Doctor < ApplicationRecord
 	has_many :patients, through: :appointments
 	has_one :cities
 	has_and_belongs_to_many :specialties
-
 end
