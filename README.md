@@ -1,6 +1,6 @@
 # THP Semaine 4 Jour 4
 
-## Projet Usine :
+## Projet doctolib :
 
 Enoncé : 1. Plateforme de réservations de docteurs
 1.1. Le pitch
